@@ -1,3 +1,2 @@
 # kewatrepo
-Author - teekam kumar
-Final year student
+Author - Teekam kumar
