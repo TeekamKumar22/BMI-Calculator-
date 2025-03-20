@@ -1,2 +1,2 @@
-# kewatrepo
+# BMI Calculator 
 Author - Teekam kumar
