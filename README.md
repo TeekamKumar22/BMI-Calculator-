@@ -1,2 +1,2 @@
-# BMI Calculator 
+# BMI Calculator (React.js)
 Author - Teekam kumar
